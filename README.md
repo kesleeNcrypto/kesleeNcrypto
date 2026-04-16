@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**kesleeNcrypto/kesleeNcrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Esla Kwanza 👋🔐
 
-Here are some ideas to get you started:
+Security Engineer | Detection Engineering | Blue Team Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and deploy detection pipelines across network, endpoint, and SIEM layers using:
+
+- Wazuh
+- Splunk
+- Suricata
+- Sysmon
+- TheHive
+
+Focused on:
+- Detection engineering
+- Threat correlation
+- SOC workflow design
+- Security telemetry pipelines
+
+📍 Abuja, Nigeria  
+🌍 Open to Remote & Freelance Opportunities  
+
+## Projects
+
+- Full Detection Pipeline Lab
+- Blue Team Detection Lab
+- SOC Triage Lab
+
+🔗 https://github.com/kesleeNcrypto
