@@ -1,85 +1,24 @@
-# Hi, I'm Esla Kwanza 👋🔐
+# 💫 About Me:
+🔭 Currently building:<br>Detection engineering labs, SOC automation, and NCryptoEdge, a managed security operations platform for African SMEs.<br><br>🤝 Looking to collaborate on:<br>Open-source security tooling, detection engineering, Wazuh, Suricata, Sigma, and AI-assisted SOC workflows.<br><br>🌱 Currently learning:<br>Advanced cloud security, malware analysis, detection engineering, and security automation.<br><br>💬 Ask me about:<br>Detection engineering, SOC operations, SIEM architecture, MITRE ATT&CK, Wazuh, Suricata, and building cybersecurity startups.<br><br>⚡ Fun fact:<br>I document every lab I build so it can become a reusable asset for future investigations and client services.
 
-### Security Engineer | Detection Engineering | Blue Team Operations
 
-I build and operate hands-on security labs that simulate modern Security Operations Center (SOC) environments.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kesleencrypto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/esla-kwanza-cybersecurity) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ncryptoedge) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ncryptoedge.cyber) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kesleencrypto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kesleencrypto@gmail.com) 
 
-My work focuses on designing detection pipelines, generating attack telemetry, investigating alerts, and improving visibility across network, endpoint, and SIEM layers.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat-square&logo=splunk&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kesleencrypto&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kesleencrypto&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kesleencrypto&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kesleencrypto&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
-## Current Focus Areas
-
-* Detection Engineering
-* Security Operations (SOC)
-* Threat Detection & Investigation
-* SIEM Engineering
-* Incident Response
-* Security Telemetry Pipelines
-* Cloud Security
-
----
-
-## Security Stack
-
-### Detection & Monitoring
-
-* Wazuh
-* Splunk
-* Suricata
-* Sysmon
-* TheHive
-
-### Operating Systems
-
-* Linux
-* Ubuntu
-* Debian
-* Windows
-
-### Frameworks & Methodologies
-
-* MITRE ATT&CK
-* Incident Response
-* Detection Engineering
-* Blue Team Operations
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kesleencrypto&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kesleencrypto&icon=0&color=2)](https://visitcount.itsvg.in)
 
-## Featured Projects
-
-### Blue Team Detection Lab
-
-Practical SOC lab using Suricata, Cowrie, Wazuh, and Splunk for threat detection, alert correlation, investigation, and reporting.
-
-### From Detection to SIEM
-
-Scaling Suricata and Cowrie detections into centralized Wazuh-based monitoring and investigation workflows.
-
-### Full Detection Pipeline Lab
-
-Cross-layer detection engineering pipeline using Suricata, Sysmon, Wazuh, Splunk, and TheHive to simulate enterprise SOC operations.
-
-### Zero Trust NGO Security Architecture
-
-Security architecture project demonstrating Zero Trust principles for non-profit and SME environments.
-
----
-
-## Founder
-
-### NCryptoEdge Security Operations
-
-Building practical cybersecurity solutions for SMEs through security monitoring, detection engineering, security operations, and cyber resilience.
-
----
-
-## Connect With Me
-
-📍 Abuja, Nigeria
-
-🌍 Open to Remote Opportunities
-
-💼 LinkedIn: [www.linkedin.com/in/eslakwanza](http://www.linkedin.com/in/eslakwanza)
-
-🔗 GitHub: https://github.com/kesleeNcrypto
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
